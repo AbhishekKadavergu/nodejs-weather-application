@@ -27,5 +27,5 @@ app.get("/weather", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Express is up on port 3000");
+  console.log("Express on port 3000");
 });
